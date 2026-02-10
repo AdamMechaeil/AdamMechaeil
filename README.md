@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Product%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20AWS%20%E2%80%A2%20Docker&descSize=20&descAlignY=60&descAlign=50" />
+  <h1 style="font-size: 50px; font-weight: bold; margin-bottom: 0;">ADAM MECHAEIL</h1>
+  <p style="font-size: 18px; color: #8b949e; letter-spacing: 2px;">FULL STACK PRODUCT ENGINEER</p>
+  <br/>
+  <p style="font-size: 14px; color: #8b949e;">Next.js • AWS • Docker</p>
 </div>
+<hr style="border: 1px solid #30363d;" />
 
 <div align="center">
   <h3>🚀 Building production-grade SaaS platforms with real-time capabilities.</h3>
