@@ -44,8 +44,8 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/adammechaeil">
-    <img src="https://github-readme-stats.vercel.app/api?username=adammechaeil&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&include_forks=true" height="150" />
+  <a href="https://github.com/AdamMechaeil">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdamMechaeil&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&include_forks=true" height="150" />
   </a>
   <a href="https://github.com/AdamMechaeil">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMechaeil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&include_forks=true&hide=html,css" height="150" />
