@@ -36,8 +36,8 @@
 
 ### 📊 Engineering Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamMechaeil&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMechaeil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" />
 </div>
 
 <br />
@@ -45,5 +45,4 @@
 ### 🏆 Key Projects
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **Nexus LMS** | **Production-grade Learning Management System.** Features real-time socket-based analytics, video streaming, and RBAC for Admins/Students. | `Next.js` `Docker` `AWS` `Socket.io` |
-| **Project 2** | *Add your second project here (e.g., E-commerce, Chat App)* | `React` `Node.js` `PostgreSQL` |
+| **LMS** | **Production-grade Learning Management System.** Features real-time socket-based analytics, video streaming, and RBAC for Admins/Students. | `Next.js` `Docker` `AWS` `Socket.io` |
