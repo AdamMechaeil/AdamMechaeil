@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Full%20Stack%20Product%20Engineer&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Systems%20%7C%20Next.js%20%E2%80%A2%20AWS%20%E2%80%A2%20Docker&descSize=20&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Product%20Engineer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20AWS%20%E2%80%A2%20Docker&descSize=20&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
