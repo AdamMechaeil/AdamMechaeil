@@ -37,7 +37,7 @@
 ### 📊 Engineering Analytics & Top Project
 <div align="center">
   <a href="https://github.com/AdamMechaeil/lms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamMechaeil&repo=lms&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&description_lines=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdamMechaeil&repo=lms&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&t=1" />
   </a>
 </div>
 
