@@ -40,12 +40,12 @@
 
 ### 📊 Engineering Analytics & Top Project
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="220" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdamMechaeil&theme=dark&hide_border=false" width="48%" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=AdamMechaeil&theme=dark&hide_border=false" width="220" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="220" height="180" />
 </p>
 
 <br />
