@@ -56,7 +56,20 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdamMechaeil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=html,css" height="150" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AdamMechaeil&theme=dark&hide_border=false" width="48%" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="180" />
+</p>
+
 <br />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🏆 Key Projects
 | **Project** | **Description** | **Tech Stack** |
