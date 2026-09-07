@@ -39,24 +39,6 @@
 <br />
 
 ### 📊 Engineering Analytics & Top Project
-<div align="center">
-  <a href="https://github.com/AdamMechaeil/lms">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=AdamMechaeil&repo=lms&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&t=1" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/AdamMechaeil">
-    <img src="https://streak-stats.demolab.com/?username=AdamMechaeil&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" height="150" />
-  </a>
-  
-  <a href="https://github.com/AdamMechaeil">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdamMechaeil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&hide=html,css" height="150" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
 </p>
