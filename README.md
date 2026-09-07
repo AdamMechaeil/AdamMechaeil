@@ -57,3 +57,9 @@
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
 | **LMS** | **Production-grade Learning Management System.** Features real-time socket-based analytics, video streaming, and RBAC for Admins/Students. | `Next.js` `Docker` `AWS` `Socket.io` |
+<br>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdamMechaeil&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
