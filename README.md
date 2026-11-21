@@ -29,10 +29,10 @@ I design, build and ship full stack web platforms, from the database to the depl
 
 ```yaml
 role:      Full Stack Engineer
-focus:     Production-grade web platforms (LMS, multi-tenant SaaS, real-time systems)
+focus:     Production-grade web platforms (LMS, multi-tenant SaaS)
 strengths: [System design, RBAC / auth, Automation, Performance tuning]
 taught:    500+ students
-shipped:   10+ projects across 2 companies, plus my own
+shipped:   10+ projects, 2 companies, plus my own
 status:    Open to new work
 ```
 
@@ -44,7 +44,7 @@ status:    Open to new work
   <img src="assets/bar-open-dark.svg" alt="cat open_to.md" width="100%" />
 </picture>
 
-| | |
+| Open to | Details |
 | :--- | :--- |
 | **Full-time roles** | Full stack / product engineering, remote or on-site |
 | **Opportunities overseas** | Relocation is on the table |
@@ -88,7 +88,7 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
   <img src="assets/bar-stack-dark.svg" alt="cat stack.json" width="100%" />
 </picture>
 
-| | |
+| Layer | Tools |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-3E6B4F?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-3E6B4F?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3E6B4F?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-3E6B4F?style=flat-square&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-3E6B4F?style=flat-square&logo=redux&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-3E6B4F?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-3E6B4F?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-3E6B4F?style=flat-square&logo=socketdotio&logoColor=white) ![Python](https://img.shields.io/badge/Python-3E6B4F?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-3E6B4F?style=flat-square&logo=django&logoColor=white) |
