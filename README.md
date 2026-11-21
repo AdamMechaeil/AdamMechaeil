@@ -1,65 +1,86 @@
 <div align="center">
-  <h1 style="font-size: 50px; font-weight: bold; margin-bottom: 0;">ADAM MECHAEIL</h1>
-  <p style="font-size: 18px; color: #8b949e; letter-spacing: 2px;">FULL STACK PRODUCT ENGINEER</p>
-  <br/>
-  <p style="font-size: 14px; color: #8b949e;">Next.js • AWS • Docker</p>
-</div>
-<hr style="border: 1px solid #30363d;" />
 
-<div align="center">
-  <h3>🚀 Building production-grade SaaS platforms with real-time capabilities.</h3>
-</div>
+<img src="assets/banner.svg" alt="Adam Mechaeil, Full Stack Engineer" width="100%" />
 
 <br />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adam-mechaeil-763294194/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:simplycleverdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/_simplyclever_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/portfolio-adamn.in-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=googlechrome&logoColor=C9A24B)](https://adamn.in)
+[![Resume](https://img.shields.io/badge/resume-pdf-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=readthedocs&logoColor=C9A24B)](https://adamn.in/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=linkedin&logoColor=C3C8CE)](https://www.linkedin.com/in/adam-mechaeil-763294194/)
+[![X](https://img.shields.io/badge/x-@10adamn-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=x&logoColor=C3C8CE)](https://x.com/10adamn)
+[![YouTube](https://img.shields.io/badge/youtube-@10adamn-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=youtube&logoColor=C3C8CE)](https://www.youtube.com/@10adamn)
+[![Email](https://img.shields.io/badge/email-say_hello-3E6B4F?style=for-the-badge&labelColor=0E1210&logo=gmail&logoColor=C3C8CE)](mailto:simplycleverdev@gmail.com)
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 </div>
 
-<hr />
+## `about.md`
 
-### ⚔️ The Arsenal (Tech Stack)
+I design, build and ship full stack web platforms, from the database to the deploy pipeline. I also teach, which keeps my fundamentals sharp and my explanations short.
 
-| **Frontend Ecosystem** | **Backend & API** | **Databases** | **DevOps & Cloud** |
-| :--- | :--- | :--- | :--- |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) | ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+```yaml
+role:      Full Stack Engineer
+focus:     Production-grade web platforms (LMS, multi-tenant SaaS, real-time systems)
+strengths: [System design, RBAC / auth, Automation, Performance tuning]
+taught:    500+ students
+shipped:   10+ projects across 2 companies, plus my own
+based_in:  India
+status:    Open to new work
+```
 
-<br />
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-### 📊 Engineering Analytics & Top Project
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" width="800" />
-</p>
+## `open_to`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdamMechaeil&theme=dark&hide_border=true&background=00000000" width="500" height="220" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdamMechaeil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="500" height="220" />
-</p>
+| | |
+| :--- | :--- |
+| **Full-time roles** | Full stack / product engineering, remote or on-site |
+| **Opportunities overseas** | Relocation is on the table |
+| **Freelance projects** | End-to-end builds: scoping, architecture, delivery |
+| **Training** | Workshops and mentoring in modern JavaScript and full stack |
 
-<br />
+Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adam-mechaeil-763294194/).
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
-### 🏆 Key Projects
-| **Project** | **Description** | **Tech Stack** |
+## `experience.log`
+
+| When | Role | Highlights |
 | :--- | :--- | :--- |
-| **LMS** | **Production-grade Learning Management System.** Features real-time socket-based analytics, video streaming, and RBAC for Admins/Students. | `Next.js` `Docker` `AWS` `Socket.io` |
-<br>
+| **Dec 2023 – Jan 2026** | Full Stack Developer & Trainer, **Techstack** (Delhi) | Built an LMS for 200+ students with JWT-based RBAC and atomic ID generation. Automated Google Meet scheduling and attendance, saving the ops team 10+ hours a week. |
+| **Nov 2022 – Aug 2023** | JavaScript Developer, **Proses Web Technologies** (Vadodara) | Optimized legacy React and Express apps: Lighthouse score up to 92, load time under 2 seconds. Fixed payment gateway bugs and shipped a responsive Tailwind UI. |
+
+### Own work
+
+- **[Modern Sensei](https://github.com/AdamMechaeil/lms)**: multi-tenant LMS for institutes of any scale (branches, admissions, students, batches, CRM). [Live demo](https://lms-client-jry7.onrender.com)
+- **[Tharoorify](https://github.com/AdamMechaeil/Tharoorfiy)**: serverless Chrome extension, an on-demand dictionary and vocabulary logger.
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+## `stack.json`
+
+| | |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0E1210?style=flat-square&logo=react&logoColor=C3C8CE) ![Next.js](https://img.shields.io/badge/Next.js-0E1210?style=flat-square&logo=nextdotjs&logoColor=C3C8CE) ![TypeScript](https://img.shields.io/badge/TypeScript-0E1210?style=flat-square&logo=typescript&logoColor=C3C8CE) ![Tailwind](https://img.shields.io/badge/Tailwind-0E1210?style=flat-square&logo=tailwindcss&logoColor=C3C8CE) ![Redux](https://img.shields.io/badge/Redux-0E1210?style=flat-square&logo=redux&logoColor=C3C8CE) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0E1210?style=flat-square&logo=nodedotjs&logoColor=C3C8CE) ![Express](https://img.shields.io/badge/Express-0E1210?style=flat-square&logo=express&logoColor=C3C8CE) ![Socket.io](https://img.shields.io/badge/Socket.io-0E1210?style=flat-square&logo=socketdotio&logoColor=C3C8CE) ![Python](https://img.shields.io/badge/Python-0E1210?style=flat-square&logo=python&logoColor=C3C8CE) ![Django](https://img.shields.io/badge/Django-0E1210?style=flat-square&logo=django&logoColor=C3C8CE) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-0E1210?style=flat-square&logo=mongodb&logoColor=C3C8CE) ![MySQL](https://img.shields.io/badge/MySQL-0E1210?style=flat-square&logo=mysql&logoColor=C3C8CE) |
+| **Cloud & tools** | ![AWS](https://img.shields.io/badge/AWS-0E1210?style=flat-square&logo=amazonwebservices&logoColor=C9A24B) ![Docker](https://img.shields.io/badge/Docker-0E1210?style=flat-square&logo=docker&logoColor=C3C8CE) ![Git](https://img.shields.io/badge/Git-0E1210?style=flat-square&logo=git&logoColor=C3C8CE) |
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
+## `now.txt`
+
+- Growing Modern Sensei
+- Making content on code, learning and self-improvement
+- Off the clock: FC Barcelona and anime
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdamMechaeil&color=58A6FF&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-stats.shion.dev/api?username=AdamMechaeil&hide_border=false&include_all_commits=true&count_private=true&title_color=C9A24B&text_color=C3C8CE&icon_color=6A9A78&bg_color=0E1210&border_color=3E6B4F" width="560" alt="GitHub stats" />
+
+<br /><br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdamMechaeil&color=3E6B4F&style=flat-square&label=profile+views)
 
 </div>
