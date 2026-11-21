@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="42" viewBox="0 0 900 42" role="img" aria-label="cat about.md">
+<rect width="900" height="42" rx="8" fill="#0E1210"/>
+<rect x="0.75" y="0.75" width="898.5" height="40.5" rx="7.5" fill="none" stroke="#3E6B4F" stroke-width="1.5"/>
+<circle cx="22" cy="21" r="4.5" fill="#6A9A78"/><circle cx="40" cy="21" r="4.5" fill="#C3C8CE" opacity="0.6"/><circle cx="58" cy="21" r="4.5" fill="#C9A24B"/>
+<text x="84" y="27" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="17" xml:space="preserve"><tspan fill="#6A9A78" font-weight="700">adam@dev</tspan><tspan fill="#7C8A81">:</tspan><tspan fill="#C9A24B">~</tspan><tspan fill="#7C8A81">$ </tspan><tspan fill="#C3C8CE">cat about.md</tspan></text>
+</svg>

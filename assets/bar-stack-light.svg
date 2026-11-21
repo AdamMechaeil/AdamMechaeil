@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="42" viewBox="0 0 900 42" role="img" aria-label="cat stack.json">
+<rect width="900" height="42" rx="8" fill="#F4F6F2"/>
+<rect x="0.75" y="0.75" width="898.5" height="40.5" rx="7.5" fill="none" stroke="#2F5D44" stroke-width="1.5"/>
+<circle cx="22" cy="21" r="4.5" fill="#2F5D44"/><circle cx="40" cy="21" r="4.5" fill="#5E6B63" opacity="0.7"/><circle cx="58" cy="21" r="4.5" fill="#9A7420"/>
+<text x="84" y="27" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="17" xml:space="preserve"><tspan fill="#2F5D44" font-weight="700">adam@dev</tspan><tspan fill="#5E6B63">:</tspan><tspan fill="#9A7420">~</tspan><tspan fill="#5E6B63">$ </tspan><tspan fill="#1F2A23">cat stack.json</tspan></text>
+</svg>
