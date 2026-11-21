@@ -103,11 +103,9 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
   <img src="assets/bar-now-dark.svg" alt="cat now.txt" width="100%" />
 </picture>
 
-```text
-[~] scavenging ideas
-[~] making content on code, learning, self-improvement and maybe random
-[~] off the clock: FC Barcelona, anime and hiphop
-```
+- Scavenging ideas
+- Making content on code, learning, self-improvement and maybe random
+- Off the clock: FC Barcelona, anime and hiphop
 
 <br />
 
