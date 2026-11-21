@@ -76,8 +76,8 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
 
 | Project | What it is | Built with | Links |
 | :--- | :--- | :--- | :--- |
-| **modern-sensei** `[solo]` | Multi-tenant LMS for institutes of any scale: branches, admissions, students, batches and CRM in one platform. Solo build. | `Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` | `[live]` [demo](https://lms-client-jry7.onrender.com) · `[src]` [github](https://github.com/AdamMechaeil/lms) |
-| **tharoorify** `[solo]` | Serverless Chrome extension: an on-demand dictionary and personal vocabulary logger. Solo build. | `React` `Vite` `TypeScript` `OAuth` `Chrome API` | `[src]` [github](https://github.com/AdamMechaeil/Tharoorfiy) |
+| **modern-sensei** `[solo]` | Multi-tenant LMS for institutes of any scale: branches, admissions, students, batches and CRM in one platform. | `Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` | `[live]` [demo](https://lms-client-jry7.onrender.com) · `[src]` [github](https://github.com/AdamMechaeil/lms) |
+| **tharoorify** `[solo]` | Serverless Chrome extension: an on-demand dictionary and personal vocabulary logger. | `React` `Vite` `TypeScript` `OAuth` `Chrome API` | `[src]` [github](https://github.com/AdamMechaeil/Tharoorfiy) |
 | **next-drop** | More coming. | `...` | stay tuned |
 
 <br />
