@@ -76,8 +76,8 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
 
 | Project | What it is | Built with | Links |
 | :--- | :--- | :--- | :--- |
-| **modern-sensei** | Multi-tenant LMS for institutes of any scale: branches, admissions, students, batches and CRM in one platform. Solo build. | `Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` | [live](https://lms-client-jry7.onrender.com) · [source](https://github.com/AdamMechaeil/lms) |
-| **tharoorify** | Serverless Chrome extension: an on-demand dictionary and personal vocabulary logger. Solo build. | `React` `Vite` `TypeScript` `OAuth` `Chrome API` | [source](https://github.com/AdamMechaeil/Tharoorfiy) |
+| **modern-sensei** `[solo]` | Multi-tenant LMS for institutes of any scale: branches, admissions, students, batches and CRM in one platform. Solo build. | `Next.js` `React` `Node.js` `Express` `MongoDB` `Tailwind` | `[live]` [demo](https://lms-client-jry7.onrender.com) · `[src]` [github](https://github.com/AdamMechaeil/lms) |
+| **tharoorify** `[solo]` | Serverless Chrome extension: an on-demand dictionary and personal vocabulary logger. Solo build. | `React` `Vite` `TypeScript` `OAuth` `Chrome API` | `[src]` [github](https://github.com/AdamMechaeil/Tharoorfiy) |
 | **next-drop** | More coming. | `...` | stay tuned |
 
 <br />
@@ -103,9 +103,11 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
   <img src="assets/bar-now-dark.svg" alt="cat now.txt" width="100%" />
 </picture>
 
-- Growing Modern Sensei
-- Making content on code, learning and self-improvement
-- Off the clock: FC Barcelona and anime
+```text
+[~] scavenging ideas
+[~] making content on code, learning, self-improvement and maybe random
+[~] off the clock: FC Barcelona, anime and hiphop
+```
 
 <br />
 
@@ -122,3 +124,11 @@ Reach me at [simplycleverdev@gmail.com](mailto:simplycleverdev@gmail.com) or on 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdamMechaeil&color=3E6B4F&style=flat-square&label=profile+views)
 
 </div>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer-dark.svg" alt="adam@dev prompt" width="100%" />
+</picture>

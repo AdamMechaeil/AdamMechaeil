@@ -3,6 +3,7 @@
 <rect width="900" height="260" rx="14" fill="#F4F6F2"/>
 <rect x="1" y="1" width="898" height="258" rx="13" fill="none" stroke="#2F5D44" stroke-width="2"/>
 <circle cx="34" cy="34" r="5" fill="#2F5D44"/><circle cx="54" cy="34" r="5" fill="#5E6B63" opacity="0.7"/><circle cx="74" cy="34" r="5" fill="#9A7420"/>
+<text x="450.0" y="39" text-anchor="middle" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="13" fill="#5E6B63">zsh — 80x24</text>
 <text x="860" y="39" text-anchor="end" font-family="Consolas,'SFMono-Regular','Courier New',monospace" font-size="14" fill="#5E6B63">~/adam-mechaeil</text>
 <text x="60" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="4" fill="#1F2A23">ADAM MECHAEIL</text>
 <rect x="60" y="128" width="180" height="3" rx="1.5" fill="url(#line)"/>
